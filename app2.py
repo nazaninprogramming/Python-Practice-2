@@ -1,4 +1,4 @@
-"""Variables Practice = Number , Boolean , String"""
+""" Variables Practice = Integer , Float , Boolean , String """
 STUDENT_COUNT = 30
 APPLE_COUNT = 14.5
 IS_PUBLISHED = True
